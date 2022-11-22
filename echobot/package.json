@@ -1,0 +1,35 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "This is a telegram bot that helps us to search for specific term in freelance ethiopia channel",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okitta/Telegrambot.git"
+  },
+  "keywords": [
+    "Telegram",
+    "Telegrambot",
+    "freelance",
+    "search",
+    "bot",
+    "freelance",
+    "ethiopia",
+    "search",
+    "bot"
+  ],
+  "author": "Okitta Ongaye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okitta/Telegrambot/issues"
+  },
+  "homepage": "https://github.com/okitta/Telegrambot#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "telegraf": "^4.10.0"
+  }
+}
